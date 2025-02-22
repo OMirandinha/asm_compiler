@@ -1,4 +1,4 @@
-# Assembly compiler
+# Assembly Compiler
 
 This project implements a simple **compiler** that converts a high-level programming language into **x86-64 assembly**. The project consists of several core components, including a custom **ArenaAllocator** for memory management, a **Parser** that converts source code into an Abstract Syntax Tree (AST), and a **Generator** that translates the AST into assembly code.
 
